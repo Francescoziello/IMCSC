@@ -23,7 +23,7 @@ layout: default
  
  4. [*Illusioni Acustiche*](http://fisicaondemusica.unimore.it/Effetti_e_illusioni_acustiche.html)
  
- 5. [*Concetti Fondamentali*] (https://copy.com/gZchdgdjAIOWu84D)
+ 5. [*Concetti Fondamentali*](https://copy.com/gZchdgdjAIOWu84D)
  
  
  ### Ascolti:
