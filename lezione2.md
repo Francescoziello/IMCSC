@@ -23,6 +23,9 @@ layout: default
  
  4. [*Illusioni Acustiche*](http://fisicaondemusica.unimore.it/Effetti_e_illusioni_acustiche.html)
  
+ 5. [*Concetti Fondamentali*] (https://copy.com/gZchdgdjAIOWu84D)
+ 
+ 
  ### Ascolti:
  
  1. John Cage - [*Sonatas and Interludes*](https://www.youtube.com/watch?v=xObkMpQqUyU)
@@ -34,6 +37,17 @@ layout: default
  4. György Ligeti - [*Le Scale Du Diable*](https://www.youtube.com/watch?v=4x92olBQu94) [1993]
      
  5. Steve Reich - [*Drumming*](https://www.youtube.com/watch?v=YH9n6pwpK0A) [1970/71]
+ 
+ 6. Gérard Grisey - [*Vortex Temporum*](https://www.youtube.com/watch?v=LB40vPhNzus) [1994/96]
+ 
+ 7. Krzysztof Penderecki - [*Threnody*](https://www.youtube.com/watch?v=HilGthRhwP8) [1960/61]
+
+ 8. Karlheinz Stockhausen - [*Kontakte*](https://www.youtube.com/watch?v=lxRcr-eWe-E) [1958/60]
+ 
+ 9. Luigi Nono - [*A Pierre*](https://www.youtube.com/watch?v=Hd1U2bt5Q8U) [1985]
+ 
+ 10. Gèrard Grisey - [*Accords Perdus*](https://www.youtube.com/watch?v=yRGUcI0S5Kk) [1989]
+
    
   ### Interviste:
   
@@ -45,7 +59,7 @@ layout: default
  
 ---- 
  
-* [*Slide seconda lezione*](https://copy.com/048uGM8WP4XsLjIj)
+* [*Slide seconda lezione*](https://copy.com/LBT6hgb19pJQj19E)
  
 ----
 
@@ -61,7 +75,7 @@ Descrivere a livello acustico, fenomenologico e percettivo tutti e cinque i fram
 
 ### Bibliografia
 
- - [Armando Gentilucci - Introduzione alla Musica Elettronica](https://copy.com/gmatZ8qkaw1WROAG)
+ - [Armando Gentilucci - Introduzione alla Musica Elettronica](https://copy.com/0bjlNgrI28f0OwRC)
  - [Fred K. Prieberg](https://copy.com/mU6LRdCdxUlrVAIZ)
  
 ----
