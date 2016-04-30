@@ -44,7 +44,7 @@ layout: default
  
  - Yoko Ono - [*Cut Piece*](https://www.youtube.com/watch?v=8Sc47KfJjcI)  [1965]
   
- - Shiomi - [*Disappearing music for face*](https://www.youtube.com/watch?v=5g5WuiY9BhA) [1966]
+ - Shiomi - [*Disappearing music for face*](https://www.youtube.com/watch?v=9qAjQVKQgUQ) [1966]
 
  - John Cage - [*John Cage e il silenzio*](https://www.youtube.com/watch?v=jlVlSdkTa14)
 
