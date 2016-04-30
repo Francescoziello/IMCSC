@@ -31,11 +31,12 @@ layout: default
  
  ### Ascolti:
 
- 1. [*Luigi Nono - Intolleranza*](https://www.youtube.com/watch?v=3IseFdpErYc)
- 2. [*Luigi Nono - Prometeo*](https://www.youtube.com/watch?v=5n-JuMnzVgA)
- 3. [*Karlheinze Stockhausen - Sonntag Aus Licht*](https://www.youtube.com/watch?v=Q-niHswSgug)
- 4. [*John Cage - In a landscape*](https://www.youtube.com/watch?v=I2wtmQkvX7A)
- 5. [*John Cage - 4'33''*](https://www.youtube.com/watch?v=HypmW4Yd7SY)
+ 
+1. [*Luigi Nono - Prometeo*](https://www.youtube.com/watch?v=5n-JuMnzVgA)
+2. [*Luigi Nono - Intolleranza*](https://www.youtube.com/watch?v=3IseFdpErYc)
+3. [*Karlheinze Stockhausen - Sonntag Aus Licht*](https://www.youtube.com/watch?v=Q-niHswSgug)
+4. [*John Cage - In a landscape*](https://www.youtube.com/watch?v=I2wtmQkvX7A)
+5. [*John Cage - 4'33''*](https://www.youtube.com/watch?v=HypmW4Yd7SY)
  
 ----
  
